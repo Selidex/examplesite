@@ -1,0 +1,36 @@
+body{
+  background: #3B0C87;
+  color: #A20F51;
+}
+
+h1{
+  text-align: center;
+  font-size: 45px;
+}
+
+hr{
+  border-color: #A20F51;
+  color: #A20F51;
+  background-color: #A20F51;
+}
+
+.img {
+  width: 50%;
+  height: 50%;
+  margin: 2px;
+}
+
+.tb {
+  float: left;
+  width: 90%;
+}
+
+#pc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#holbie {
+  background: white;
+}
